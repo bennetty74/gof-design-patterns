@@ -1,6 +1,4 @@
-package decorator;
-
-import java.io.UnsupportedEncodingException;
+package structural.decorator;
 
 /**
  * @author bugkit

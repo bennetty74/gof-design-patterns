@@ -1,29 +1,29 @@
-package bridge;
+package structural.bridge;
 
 /**
  * @author bugkit
  * @since 2021.12.30
  */
-public class Theme {
+public class Button {
     /**
-     * the primary color of application
+     * the background of button
      */
-    private String primaryColor;
+    private String background;
     /**
-     * the primary font size
+     * the font size of text on button
      */
     private int fontSize;
     /**
-     * the font family of application
+     * the font family of text on button
      */
     private String fontFamily;
 
-    public String getPrimaryColor() {
-        return primaryColor;
+    public String getBackground() {
+        return background;
     }
 
-    public void setPrimaryColor(String primaryColor) {
-        this.primaryColor = primaryColor;
+    public void setBackground(String background) {
+        this.background = background;
     }
 
     public int getFontSize() {

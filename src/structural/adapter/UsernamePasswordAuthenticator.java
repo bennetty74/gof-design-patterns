@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 /**
  * The default implementation of {@link Authenticator}
