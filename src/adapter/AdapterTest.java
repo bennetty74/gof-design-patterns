@@ -6,6 +6,7 @@ package adapter;
  */
 public class AdapterTest {
 
+
     public static void main(String[] args) {
         // the first just for username and password authentication
         Authenticator authenticator = new UsernamePasswordAuthenticator();
