@@ -1,7 +1,8 @@
 package cn.bugkit.structural.flyweight;
 
 /**
- * Flyweight is for reusing the object
+ * Flyweight is for reusing the sharing object
+ * like thread pool
  * @author bugkit
  * @since 2022.1.4
  */
