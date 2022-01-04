@@ -1,4 +1,4 @@
-package structural.decorator;
+package cn.bugkit.structural.decorator;
 
 /**
  * @author bugkit

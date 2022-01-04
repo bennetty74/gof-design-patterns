@@ -1,4 +1,4 @@
-package structural.bridge;
+package cn.bugkit.structural.bridge;
 
 /**
  * @author bugkit

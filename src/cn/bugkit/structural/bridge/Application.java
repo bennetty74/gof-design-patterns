@@ -1,4 +1,4 @@
-package structural.bridge;
+package cn.bugkit.structural.bridge;
 
 import java.util.ArrayList;
 import java.util.List;

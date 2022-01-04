@@ -1,4 +1,4 @@
-package structural.adapter;
+package cn.bugkit.structural.adapter;
 
 /**
  * The default implementation of {@link Authenticator}
