@@ -1,5 +1,5 @@
 # Gof-design-patterns
-[English Document]()
+[English Document](https://github.com/bennetty74/gof-design-patterns/blob/master/README.md)
 - [x] **创建型**
     - [x] 简单工厂模式
     - [x] 工厂方法模式

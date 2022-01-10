@@ -1,6 +1,6 @@
 # Gof-design-patterns
 
-[中文文档]()
+[中文文档](https://github.com/bennetty74/gof-design-patterns/blob/master/README-ZH.md)
 
 - [x] **Creational Patterns**
     - [x] Simple Factory
