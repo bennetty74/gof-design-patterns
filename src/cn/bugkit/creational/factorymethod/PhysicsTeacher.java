@@ -6,7 +6,7 @@ package cn.bugkit.creational.factorymethod;
  */
 public class PhysicsTeacher extends Teacher {
     @Override
-    Subject getSubject() {
+    Subject createSubject() {
         return new PhysicsSubject();
     }
 }

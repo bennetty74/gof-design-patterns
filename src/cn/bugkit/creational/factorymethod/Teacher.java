@@ -7,16 +7,16 @@ package cn.bugkit.creational.factorymethod;
 public abstract class Teacher {
 
     /**
-     * Get the subject which taught by teacher
+     * Create the subject which taught by teacher
      * @return subject
      */
-    abstract Subject getSubject();
+    abstract Subject createSubject();
 
     /**
      * Teach children by the specific subject
      */
     public void teach(){
-        Subject subject = getSubject();
+        Subject subject = createSubject();
         subject.show();
     }
 

@@ -7,7 +7,7 @@ package cn.bugkit.creational.factorymethod;
 public class MathTeacher extends Teacher {
 
     @Override
-    Subject getSubject() {
+    Subject createSubject() {
         return new MathSubject();
     }
 }
