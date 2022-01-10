@@ -18,10 +18,10 @@
     - [x] Flyweight
     - [x] Proxy
 - [x] **Behavioral Patterns**
-    - [x] Commad
+    - [x] Command
     - [x] Iterator
     - [x] Observer
-    - [x] Responsiblity Chain
+    - [x] Responsibility Chain
     - [x] State
     - [x] Strategy
     - [x] Template Method
