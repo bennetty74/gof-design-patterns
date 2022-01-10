@@ -26,3 +26,5 @@
     - [x] Strategy
     - [x] Template Method
     - [x] Visitor
+    - [ ] Mediator
+    - [ ] Memento
