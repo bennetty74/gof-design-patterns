@@ -15,7 +15,7 @@ public class AdapterTest {
         // but after some days, the system required for token authentication,but we doesn't have the other method to authenticate by token
         // so we choose to adapt to the UsernamePasswordAuthentication and use the origin authenticate method.
         TokenAuthentication tokenAuthentication = new TokenAuthenticationImpl();
-        System.out.println(authenticator.authenticate(new TokenAuthenticationAdapter(tokenAuthentication)));
+        System.out.println(authenticator.authenticate(new UsernamePasswordAuthenticationAdapter(tokenAuthentication)));
     }
 
 }

@@ -4,11 +4,11 @@ package cn.bugkit.structural.adapter;
  * @author bugkit
  * @since 2021.12.30
  */
-public class TokenAuthenticationAdapter implements UsernamePasswordAuthentication {
+public class UsernamePasswordAuthenticationAdapter implements UsernamePasswordAuthentication {
 
     private final TokenAuthentication tokenAuthentication;
 
-    public TokenAuthenticationAdapter(TokenAuthentication tokenAuthentication) {
+    public UsernamePasswordAuthenticationAdapter(TokenAuthentication tokenAuthentication) {
         this.tokenAuthentication = tokenAuthentication;
     }
 
